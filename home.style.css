@@ -141,7 +141,9 @@ padding: 5px 20px;
 }
 
 @media screen and (max-width:480px){
-  
+  *{
+  font-family: 'Poppins', sans-serif;
+}
   #logo{
     width:215px;
    cursor: pointer;
