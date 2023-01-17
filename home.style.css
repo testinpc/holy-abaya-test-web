@@ -5,6 +5,9 @@ body{
   margin: 0px;
   background: linear-gradient(to top left, rgb(26, 34, 83), #000000);
 }
+h2{
+  font-family: 'Poppins', sans-serif;
+}
 *{
   font-family: 'Poppins', sans-serif;
 }
